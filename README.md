@@ -91,7 +91,7 @@
   </tr>    
   <tr>
     <td> 16. </td>
-    <td> <b> Computer Systems </b></td>
+    <td> <b> Computer Networking </b></td>
     <td> From low level C socket programming to network architecturing </td>
   </tr> 
   <td colspan=3 align=center><i>Semester 4</i></td>
