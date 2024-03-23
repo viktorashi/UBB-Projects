@@ -114,9 +114,14 @@
     <td> 20. </td>
     <td> <b> Probabilty Theory </b></td>
     <td> admission exam questions basically </td>
-  </tr>     
+  </tr> 
   <tr>
     <td> 21. </td>
+    <td> <b> Real Analysis </b></td>
+    <td> first time I didn't skip a proof while reading a math lecture </td>
+  </tr>    
+  <tr>
+    <td> 22. </td>
     <td> <b> Design and programming[^3] </b></td>
     <td> full-stack web-dev[^4] </td>
   </tr>     
