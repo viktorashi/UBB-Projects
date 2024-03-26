@@ -122,7 +122,7 @@
   </tr>    
   <tr>
     <td> 22. </td>
-    <td> <b> Design and programming[^3] </b></td>
+    <td> <b> Systems for Design and Implementation </b></td>
     <td> full-stack web-dev[^4] </td>
   </tr>     
 </table>
