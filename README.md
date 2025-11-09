@@ -15,7 +15,7 @@
   <tr>
     <td> 1. </td>
     <td> <b> Linear Algebra </b></td>
-    <td> "basis" (haha getit) of math & comp. sci.  </td>
+    <td> "basis"  of math & comp. sci. (haha getit) </td>
   </tr>
   <tr>
     <td> 2. </td>
